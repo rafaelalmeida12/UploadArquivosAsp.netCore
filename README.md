@@ -1,6 +1,9 @@
 # UploadArquivosAsp.netCore
 Projeto tem como exemplo como cadastrar arquivos de uma aplicação asp.net core no banco de dados sql server.
-
+  
+#Youtube : https://www.youtube.com/watch?v=iw2TZ4n1-uI  
+  
+  
 ##Sql
 
 CREATE TABLE dbo.Arquivos(
